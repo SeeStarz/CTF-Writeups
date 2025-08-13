@@ -1,0 +1,6 @@
+hash-only-2
+Author: Junias Bonou
+
+Description
+Here is a binary that has enough privilege to read the content of the flag file but will only let you know its hash. If only it could just give you the actual content!
+Connect using ssh ctf-player@rescued-float.picoctf.net -p 51175 with the password, 6abf4a82 and run the binary named "flaghasher".

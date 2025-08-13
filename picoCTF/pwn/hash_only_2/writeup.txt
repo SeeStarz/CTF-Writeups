@@ -1,0 +1,6 @@
+Same as version 1, but this time we can't override the binary.
+Notice that it's not absolute path, so we can fiddle with PATH.
+PATH is actually set to be readonly, but thanks to GPT, that readonly property is not inherited by further shell invocations.
+
+So simply just run /bin/bash and then manipulate PATH to /home/ctf-player
+Then create a shell script to run bash instead of md5sum

