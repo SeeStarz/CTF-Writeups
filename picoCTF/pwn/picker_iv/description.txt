@@ -1,0 +1,8 @@
+Picker IV
+Author: LT 'syreal' Jones
+
+Description
+Can you figure out how this program works to get the flag?
+Connect to the program with netcat:
+$ nc saturn.picoctf.net 57574
+The program's source code can be downloaded here. The binary can be downloaded here.

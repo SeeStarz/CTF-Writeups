@@ -1,0 +1,7 @@
+two-sum
+Author: Mubarak Mikail
+
+Description
+Can you solve this?
+What two positive numbers can make this possible: n1 > n1 + n2 OR n2 > n1 + n2
+Enter them here nc saturn.picoctf.net 59837. Source

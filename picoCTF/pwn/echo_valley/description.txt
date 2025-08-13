@@ -1,0 +1,9 @@
+Echo Valley
+Author: Shuailin Pan (LeConjuror)
+
+Description
+The echo valley is a simple function that echoes back whatever you say to it.
+But how do you make it respond with something more interesting, like a flag?
+Download the source: valley.c
+Download the binary: valley
+Additional details will be available after launching your challenge instance.

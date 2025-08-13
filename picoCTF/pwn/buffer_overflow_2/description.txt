@@ -1,0 +1,7 @@
+buffer overflow 2
+Author: Sanjay C / Palash Oswal
+
+Description
+Control the return address and arguments
+This time you'll need to control the arguments to the function you return to! Can you get the flag from this program?
+You can view source here. And connect with it using nc saturn.picoctf.net 54779

@@ -1,0 +1,2 @@
+So there is no array bounds checker.
+Go to x=-4 y=0, that will set the player's flag bit to nonzero, then enter p to auto solve the game.

@@ -1,0 +1,6 @@
+VNE
+Author: Junias Bonou
+
+Description
+We've got a binary that can list directories as root, try it out !!
+ssh to saturn.picoctf.net:63745, and run the binary named "bin" once connected. Login as ctf-player with the password, fd7746b4

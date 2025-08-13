@@ -1,0 +1,4 @@
+Spam "%lx|"*100 in python
+Limit it to 300 in size
+
+Process the result, filter non even length, read from little endian, join, ez.

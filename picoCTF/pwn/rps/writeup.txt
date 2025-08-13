@@ -1,0 +1,2 @@
+Just send rockpaperscissors 5 times lol.
+strstr looks for rock|paper|scissors inside the user string instead of checking the whole string.
