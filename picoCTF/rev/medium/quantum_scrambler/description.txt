@@ -1,0 +1,8 @@
+Quantum Scrambler
+Author: Michael Crotty
+
+Description
+We invented a new cypher that uses "quantum entanglement" to encode the flag. Do you have what it takes to decode it?
+Connect to the program with netcat:
+$ nc verbal-sleep.picoctf.net 63779
+The program's source code can be downloaded here.

@@ -1,0 +1,5 @@
+Notice the weird .split(';')? Yeah that is the exploit.
+It's supposed to simply ignore semicolons but due to how it works we can split our input with semicolon.
+
+Payload is
+;RETURN 0
