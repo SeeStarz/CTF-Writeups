@@ -1,0 +1,7 @@
+Guessing Game 1
+Author: madStacks
+
+Description
+I made a simple game to show off my programming skills. See if you can beat it!
+vuln vuln.c Makefile.share
+Connect to the server with nc shape-facility.picoctf.net 56100.
