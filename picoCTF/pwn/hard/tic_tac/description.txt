@@ -1,0 +1,6 @@
+tic-tac
+Author: Junias Bonou
+
+Description
+Someone created a program to read text files; we think the program reads files with root privileges but apparently it only accepts to read files that are owned by the user running it.
+ssh to saturn.picoctf.net:50958, and run the binary named "txtreader" once connected. Login as ctf-player with the password, 3f39b042

@@ -1,0 +1,7 @@
+So the way the binary worked is it allocates a bunch of heap buffers with flags.
+Lastly it allocates dummy buffer with no flag.
+The order of free and malloc is purposely done so that there is no string null byte manipulation.
+The usual freelist corruption by freeing manipulated fd/next pointer is also not possible due to there only being one malloc after user input.
+
+Because tcache is on this version, and tcache is actually stored in the heap, we can actually just corrupt the tcache entry itself.
+For reproducibility, i'll just assume it's reproducible enough given the same libc.

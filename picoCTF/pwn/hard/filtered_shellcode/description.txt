@@ -1,0 +1,5 @@
+filtered-shellcode
+Author: madStacks
+
+Description
+A program that just runs the code you give it? That seems kinda boring... fun nc mercury.picoctf.net 40525

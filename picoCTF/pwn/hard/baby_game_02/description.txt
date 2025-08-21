@@ -1,0 +1,6 @@
+babygame02
+Author: Palash Oswal
+
+Description
+Break the game and get the flag.
+Welcome to BabyGame 02! Navigate around the map and see what you can find! The game is available to download here. There is no source available, so you'll have to figure your way around the map. You can connect with it using nc saturn.picoctf.net 57638.

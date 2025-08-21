@@ -1,0 +1,5 @@
+Here's a LIBC
+Author: madStacks
+
+Description
+I am once again asking for you to pwn this binary vuln libc.so.6 Makefile nc mercury.picoctf.net 23584
